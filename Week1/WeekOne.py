@@ -30,8 +30,6 @@ def multiply(first_value, second_value):
     result = first_value * second_value
     print(result)
     
-    
-    
 def divide(first_value, second_value):
     
     result = first_value / second_value
