@@ -9,3 +9,5 @@ Week 2:
 Week3:
 	Working with a CMD using Ping. Manipulating data in CMD. Parsing that data taken from the CMD
 	
+Week4:
+	First class with PCB. Serial comands. 
